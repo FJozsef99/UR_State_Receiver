@@ -1,0 +1,17 @@
+C:\Users\Dzsozi\source\repos\UR_State_Receiver\UR_State_Receiver\bin\Debug\net6.0\UR_State_Receiver.exe
+C:\Users\Dzsozi\source\repos\UR_State_Receiver\UR_State_Receiver\bin\Debug\net6.0\UR_State_Receiver.deps.json
+C:\Users\Dzsozi\source\repos\UR_State_Receiver\UR_State_Receiver\bin\Debug\net6.0\UR_State_Receiver.runtimeconfig.json
+C:\Users\Dzsozi\source\repos\UR_State_Receiver\UR_State_Receiver\bin\Debug\net6.0\UR_State_Receiver.dll
+C:\Users\Dzsozi\source\repos\UR_State_Receiver\UR_State_Receiver\bin\Debug\net6.0\UR_State_Receiver.pdb
+C:\Users\Dzsozi\source\repos\UR_State_Receiver\UR_State_Receiver\obj\Debug\net6.0\UR_State_Receiver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dzsozi\source\repos\UR_State_Receiver\UR_State_Receiver\obj\Debug\net6.0\UR_State_Receiver.AssemblyInfoInputs.cache
+C:\Users\Dzsozi\source\repos\UR_State_Receiver\UR_State_Receiver\obj\Debug\net6.0\UR_State_Receiver.AssemblyInfo.cs
+C:\Users\Dzsozi\source\repos\UR_State_Receiver\UR_State_Receiver\obj\Debug\net6.0\UR_State_Receiver.csproj.CoreCompileInputs.cache
+C:\Users\Dzsozi\source\repos\UR_State_Receiver\UR_State_Receiver\obj\Debug\net6.0\UR_State_Receiver.dll
+C:\Users\Dzsozi\source\repos\UR_State_Receiver\UR_State_Receiver\obj\Debug\net6.0\refint\UR_State_Receiver.dll
+C:\Users\Dzsozi\source\repos\UR_State_Receiver\UR_State_Receiver\obj\Debug\net6.0\UR_State_Receiver.pdb
+C:\Users\Dzsozi\source\repos\UR_State_Receiver\UR_State_Receiver\obj\Debug\net6.0\UR_State_Receiver.genruntimeconfig.cache
+C:\Users\Dzsozi\source\repos\UR_State_Receiver\UR_State_Receiver\obj\Debug\net6.0\ref\UR_State_Receiver.dll
+C:\Users\Dzsozi\source\repos\UR_State_Receiver\UR_State_Receiver\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Dzsozi\source\repos\UR_State_Receiver\UR_State_Receiver\obj\Debug\net6.0\UR_State_Receiver.csproj.AssemblyReference.cache
+C:\Users\Dzsozi\source\repos\UR_State_Receiver\UR_State_Receiver\obj\Debug\net6.0\UR_State.DA43055A.Up2Date
